@@ -1,0 +1,29 @@
+{
+  "name": "insomnia-plugin-vscode-theme-minimal",
+  "version": "1.0.0",
+  "main": "main.js",
+  "private": false,
+  "insomnia": {
+    "name": "vscode-theme-minimal",
+    "description": "Copy of Marco Maldonado's theme with a few hidden UI elements for features behind the login"
+  },
+  "description": "Copy of Marco Maldonado's theme with a few hidden UI elements for features behind the login",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DusanLesan/insomnia-plugin-vscode-theme-minimal.git"
+  },
+  "keywords": [
+    "theme",
+    "minimal",
+    "dark"
+  ],
+  "author": "Dusan Lesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DusanLesan/insomnia-plugin-vscode-theme-minimal/issues"
+  },
+  "homepage": "https://github.com/DusanLesan/insomnia-plugin-vscode-theme-minimal#readme"
+}
