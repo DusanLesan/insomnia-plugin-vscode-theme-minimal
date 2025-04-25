@@ -1,3 +1,3 @@
 A copy of [insomnia-plugin-theme-vscode-dark
-](https://github.com/mxrck/insomnia-plugin-theme-vscode-dark) with header and footer hidden
-![image](https://github.com/user-attachments/assets/2daab7eb-789b-4f39-a40c-bc906e190729)
+](https://github.com/mxrck/insomnia-plugin-theme-vscode-dark) with the header and footer hidden, and the tab section height reduced
+![select-20250425-163224](https://github.com/user-attachments/assets/864670bd-6996-41fd-b63e-15a82819b5c8)
