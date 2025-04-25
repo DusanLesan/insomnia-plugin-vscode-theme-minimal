@@ -1,6 +1,6 @@
 {
   "name": "insomnia-plugin-vscode-theme-minimal",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "main.js",
   "private": false,
   "insomnia": {
